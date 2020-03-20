@@ -1,8 +1,8 @@
 # Prova Técnica - EloGroup
 
-> Nome: Marcus Vinicius Cardoso de Melo
-> Framework utilizado: Vue.js
-> Hierarquia dos arquivos: O arquivo principal é o arquivo 'src/App.vue', nele contém a parte principal do código de cadastro. 
+### Nome: Marcus Vinicius Cardoso de Melo
+### Framework utilizado: Vue.js
+### Hierarquia dos arquivos: O arquivo principal é o arquivo 'src/App.vue', nele contém a parte principal do código de cadastro. 
 
 ## Configuração
 
